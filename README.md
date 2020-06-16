@@ -9,11 +9,12 @@ Sms Bomber for Egyept Phone numbers
   </p>
 <br>
 <br>
-#Install:
+
+# Install:
 
 ```
 git clone https://github.com/Cyber-Atom/Egy_Bomber
 pip3 install requests
 python3 egy_bomber.py
 ```
-#@ZeyadAzima
+# @ZeyadAzima
