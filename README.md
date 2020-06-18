@@ -16,7 +16,7 @@ We و Orange تم اضافة
 <h1>ملحوظة:</h1>
 <p> اذا واجهة مشكلة في اختيار رقم 1 الخاص بفودافون قم بتشغيل الاداة مره اخري و سوف يعمل</p>
 <br>
-<p>if you have an error or problem in the vodafone , please run the tool again and it's will work</p>
+<p>if you have an error or problem in the vodafone bomber , please run the tool again and it's will work</p>
 <br>
 
 # Install:
