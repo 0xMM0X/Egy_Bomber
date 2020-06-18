@@ -37,7 +37,7 @@ def Vodafone():
                 time.sleep(1)
             elif azima1 != 200:
                 print('Error')
-            print('You send: ' + str(azima) + ' Messeges')
+        print('You send: ' + str(azima) + ' Messeges')
     else:
         print('')
         print('Enter correct number ;(')
@@ -89,6 +89,7 @@ def Etisalat():
                 time.sleep(1)
             elif azima1 != 200:
                 print('Error')
+        print('You send: ' + str(azima) + ' Messeges')
     else:
         print('')
         print('Enter correct number ;(')
