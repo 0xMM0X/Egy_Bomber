@@ -2,8 +2,8 @@
 Sms Bomber for Egypt Phone numbers
 ```
 ===================================
-|           Egy_Bomber            |               I bear witness  front of god that I am not responsible for guilt of any wrong use
-|                                 |                         أشهد أمام الله أنني لست مسؤولا عن ذنب أي استخدام خاطئ
+|           Egy_Bomber            |     I bear witness  front of god that I am not responsible for guilt of any wrong use
+|                                 |         أشهد أمام الله أنني لست مسؤولا عن ذنب أي استخدام خاطئ
 | ___________________    . , ; .  | 
 |(___________________|~~~~~X.;' . |
 |          @ZeyadAzima   ' `" ' ` |       
