@@ -4,6 +4,10 @@ Sms Bomber for Egypt Phone numbers
 <h1>I bear witness  front of god that I am not responsible for guilt of any wrong use</h1>
 <h1>أشهد أمام الله أنني لست مسؤولا عن ذنب أي استخدام خاطئ</h1>
 <br>
+<h1>تحديث,update:</h1>
+WE and Orange added to the tool
+We و Orange تم اضافة
+<br>
 <p>I hope you use it against the annoying numbers,
   اتمني ان تستخدمها ضد الارقام المزعجة
   </p>
