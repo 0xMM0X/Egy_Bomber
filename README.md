@@ -21,4 +21,3 @@ git clone https://github.com/Cyber-Atom/Egy_Bomber
 pip3 install requests
 python3 egy_bomber.py
 ```
-# @ZeyadAzima
