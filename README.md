@@ -1,5 +1,18 @@
 # Egy_Bomber
 Sms Bomber for Egypt Phone numbers
+```
+===================================
+|           Egy_Bomber            |
+| ___________________    . , ; .  |
+|(___________________|~~~~~X.;' . |
+|          @ZeyadAzima   ' `" ' ` |       
+==================================
+|    1-Vodafone                   |
+|    2-Etisalat                   |
+|    3-Orange                     |
+|    4-We                         |
+===================================
+```
 <br>
 <h1>I bear witness  front of god that I am not responsible for guilt of any wrong use</h1>
 <h1>أشهد أمام الله أنني لست مسؤولا عن ذنب أي استخدام خاطئ</h1>
